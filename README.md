@@ -1,4 +1,4 @@
-# detect_pupil of mouse
+# detect pupil of mouse
 Copyright notice: The original source code of “Detect_pupil” was first delivered on 2020/07/27.
 Github link: https://github.com/KuoTingKai/detect_pupil
 .The author is Ting-Kai, Kuo from National Taipei University of Technology, Taiwan.
